@@ -1,0 +1,47 @@
+/*Contenedor Imagen*/
+.contenedorImg {
+  width: 50rem;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;
+}
+
+/* Imagen PC */
+.imgDocs {
+  width: 60rem;
+  /* height: 100%; */
+}
+
+.contenadorAboutUs {
+  width: 100%;
+  height: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 1px 1px;
+}
+
+.container-docs {
+  border-top: 1px solid rgb(221, 213, 213);
+  padding-top: 1rem;
+}
+
+.pGetKown {
+  text-align: center;
+}
+
+.columna1 {
+  /* background-color: red; */
+}
+
+.columna2 {
+  /* background-color: blue; */
+}
+
+.imagenPC {
+  width: 100%;
+}
+
+.conetendor-grande {
+  /* background-color: red; */
+}
+
+.roww {
+  display: flex;
+}

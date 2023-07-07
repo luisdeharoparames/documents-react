@@ -1,0 +1,13 @@
+.div {
+  background-color: rgb(231, 230, 230);
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navmenu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
